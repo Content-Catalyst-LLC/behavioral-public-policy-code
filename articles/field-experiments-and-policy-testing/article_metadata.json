@@ -1,0 +1,33 @@
+{
+  "slug": "field-experiments-and-policy-testing",
+  "title": "Field Experiments and Policy Testing",
+  "series_title": "Behavioral Public Policy",
+  "repository": "behavioral-public-policy-code",
+  "path": "articles/field-experiments-and-policy-testing/",
+  "summary": "Testing interventions in real institutional settings.",
+  "status": "scaffolded",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "standard": "sustainable-catalyst-article-folder-v2",
+  "layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculators": true,
+  "responsible_use": "Educational scaffold only; not validated operational guidance."
+}

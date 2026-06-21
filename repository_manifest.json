@@ -1,0 +1,187 @@
+{
+  "repository": "behavioral-public-policy-code",
+  "organization": "Content-Catalyst-LLC",
+  "series_title": "Behavioral Public Policy",
+  "kind": "article-map",
+  "description": "Companion repository for behavioral public policy, behavioral insights, administrative design, public benefits, climate, health, financial security, compliance, evidence, equity, and governance.",
+  "generated_at": "2026-06-21T05:37:50+00:00",
+  "upgrade_tag": "behavioral-science-upgrade-20260621-003706",
+  "standard": "sustainable-catalyst-article-map-code-repo-v2",
+  "article_count": 25,
+  "article_root": "articles/",
+  "shared_root": "_shared/",
+  "default_article_layers": [
+    "python",
+    "r",
+    "julia",
+    "sql",
+    "haskell",
+    "rust",
+    "go",
+    "c",
+    "cpp",
+    "fortran",
+    "java",
+    "typescript",
+    "prolog",
+    "notebooks",
+    "docs",
+    "data",
+    "outputs",
+    "tests"
+  ],
+  "calculator_layer_required": true,
+  "articles": [
+    {
+      "slug": "what-is-behavioral-public-policy",
+      "title": "What Is Behavioral Public Policy?",
+      "summary": "A foundational article on applying behavioral science to public institutions.",
+      "path": "articles/what-is-behavioral-public-policy/"
+    },
+    {
+      "slug": "behavioral-insights-and-public-institutions",
+      "title": "Behavioral Insights and Public Institutions",
+      "summary": "How public institutions use behavioral evidence.",
+      "path": "articles/behavioral-insights-and-public-institutions/"
+    },
+    {
+      "slug": "why-policy-must-account-for-real-behavior",
+      "title": "Why Policy Must Account for Real Behavior",
+      "summary": "Policy design under bounded attention, trust, and friction.",
+      "path": "articles/why-policy-must-account-for-real-behavior/"
+    },
+    {
+      "slug": "boundedly-rational-citizens",
+      "title": "From Rational Citizens to Boundedly Rational Citizens",
+      "summary": "A behavioral view of citizenship and public action.",
+      "path": "articles/boundedly-rational-citizens/"
+    },
+    {
+      "slug": "behavioral-science-and-administrative-design",
+      "title": "Behavioral Science and Administrative Design",
+      "summary": "Forms, processes, access, burden, and service delivery.",
+      "path": "articles/behavioral-science-and-administrative-design/"
+    },
+    {
+      "slug": "public-policy-as-decision-environment",
+      "title": "Public Policy as Decision Environment",
+      "summary": "How policy structures choices and follow-through.",
+      "path": "articles/public-policy-as-decision-environment/"
+    },
+    {
+      "slug": "behavioral-insights-units",
+      "title": "The Rise of Behavioral Insights Units",
+      "summary": "Institutions built to apply behavioral evidence to policy.",
+      "path": "articles/behavioral-insights-units/"
+    },
+    {
+      "slug": "defaults-in-public-policy",
+      "title": "Defaults in Public Policy",
+      "summary": "Default rules in public programs and public choice.",
+      "path": "articles/defaults-in-public-policy/"
+    },
+    {
+      "slug": "simplification-and-form-design",
+      "title": "Simplification and Form Design",
+      "summary": "Clarity, burden reduction, and access.",
+      "path": "articles/simplification-and-form-design/"
+    },
+    {
+      "slug": "reminders-prompts-and-timely-communication",
+      "title": "Reminders, Prompts, and Timely Communication",
+      "summary": "Timing and follow-through in public programs.",
+      "path": "articles/reminders-prompts-and-timely-communication/"
+    },
+    {
+      "slug": "social-norm-messaging",
+      "title": "Social Norm Messaging",
+      "summary": "Public messaging based on perceived norms.",
+      "path": "articles/social-norm-messaging/"
+    },
+    {
+      "slug": "friction-reduction-and-service-access",
+      "title": "Friction Reduction and Service Access",
+      "summary": "Removing unnecessary barriers to participation.",
+      "path": "articles/friction-reduction-and-service-access/"
+    },
+    {
+      "slug": "behavioral-policy-in-health",
+      "title": "Behavioral Policy in Health",
+      "summary": "Health behavior, access, adherence, prevention, and communication.",
+      "path": "articles/behavioral-policy-in-health/"
+    },
+    {
+      "slug": "behavioral-policy-in-education",
+      "title": "Behavioral Policy in Education",
+      "summary": "Enrollment, completion, learning, and family engagement.",
+      "path": "articles/behavioral-policy-in-education/"
+    },
+    {
+      "slug": "behavioral-policy-in-climate-and-energy",
+      "title": "Behavioral Policy in Climate and Energy",
+      "summary": "Energy use, climate risk, transport, and conservation.",
+      "path": "articles/behavioral-policy-in-climate-and-energy/"
+    },
+    {
+      "slug": "behavioral-policy-in-financial-security",
+      "title": "Behavioral Policy in Financial Security",
+      "summary": "Saving, debt, benefits, retirement, and financial resilience.",
+      "path": "articles/behavioral-policy-in-financial-security/"
+    },
+    {
+      "slug": "behavioral-policy-in-tax-compliance",
+      "title": "Behavioral Policy in Tax Compliance",
+      "summary": "Compliance, trust, simplification, and enforcement design.",
+      "path": "articles/behavioral-policy-in-tax-compliance/"
+    },
+    {
+      "slug": "behavioral-policy-in-public-benefits",
+      "title": "Behavioral Policy in Public Benefits",
+      "summary": "Uptake, eligibility, stigma, paperwork, and access.",
+      "path": "articles/behavioral-policy-in-public-benefits/"
+    },
+    {
+      "slug": "behavioral-policy-in-civic-participation",
+      "title": "Behavioral Policy in Civic Participation",
+      "summary": "Voting, participation, civic communication, and trust.",
+      "path": "articles/behavioral-policy-in-civic-participation/"
+    },
+    {
+      "slug": "administrative-burden",
+      "title": "Administrative Burden",
+      "summary": "Learning costs, compliance costs, psychological costs, and exclusion.",
+      "path": "articles/administrative-burden/"
+    },
+    {
+      "slug": "trust-legitimacy-and-compliance",
+      "title": "Trust, Legitimacy, and Compliance",
+      "summary": "Why legitimacy matters for public behavior.",
+      "path": "articles/trust-legitimacy-and-compliance/"
+    },
+    {
+      "slug": "randomized-controlled-trials-in-public-policy",
+      "title": "Randomized Controlled Trials in Public Policy",
+      "summary": "Experimental evaluation of policy interventions.",
+      "path": "articles/randomized-controlled-trials-in-public-policy/"
+    },
+    {
+      "slug": "field-experiments-and-policy-testing",
+      "title": "Field Experiments and Policy Testing",
+      "summary": "Testing interventions in real institutional settings.",
+      "path": "articles/field-experiments-and-policy-testing/"
+    },
+    {
+      "slug": "scaling-behavioral-interventions",
+      "title": "Scaling Behavioral Interventions",
+      "summary": "From pilot evidence to public-system implementation.",
+      "path": "articles/scaling-behavioral-interventions/"
+    },
+    {
+      "slug": "ai-and-behavioral-governance",
+      "title": "AI and Behavioral Governance",
+      "summary": "Automated personalization, public nudging, and accountability.",
+      "path": "articles/ai-and-behavioral-governance/"
+    }
+  ],
+  "responsible_use": "Educational and research-scaffolding examples only; not operational guidance without validation and ethical review."
+}
